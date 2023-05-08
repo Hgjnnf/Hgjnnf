@@ -7,7 +7,9 @@ My name is Gordon. I'm currently studying Electrical Engineering at the Universi
 I have done an 8-month co-op @ Samsung Electronics working on enterprise software on the frontend side. I am also involved with UBC Launch Pad and UBC Product Management Club as a developer because I love building for and collaborating with the community I care about. I've also built a few personal projects which you may find on my GitHub (more is on the way!).
 
 ### Skills
-Languages
+<details>
+  <summary>Languages</summary>
+  
 - JS/TS
 - Python
 - Java
@@ -15,27 +17,37 @@ Languages
 - HTML/CSS
 - C
 - Arm Assembly
+</details>
 
-Frontend
+<details>
+  <summary>Frontend</summary>
+  
 - React.js
 - React Native
 - Webpack, Vite
 - Redux
+</details>
 
-Backend
+<details>
+  <summary>Backend</summary>
+  
 - Django
 - Flask
 - Express.js
 - Spring
 - Node.js
+</details>
 
-Others
+<details>
+  <summary>Others</summary>
+  
 - AWS (Amplify, S3, Lambda, Cloud Development Kit)
 - Docker
 - Git
 - MongoDB
 - PostgreSQL
 - Mocha, Jest, Pytest, JUnit
+</details>
 
 ### You can reach me at:
 - [LinkedIn](http://linkedin.com/in/gordon-cheung-hwc/)
