@@ -18,9 +18,9 @@
 
 #### Experience
 
-- I have done an 8-month co-op @ Samsung Electronics working on enterprise software on the frontend side. 
-- I am also involved with UBC Launch Pad and UBC Product Management Club as a developer because I love building for and collaborating with the community I care about. 
-- I've also built a few personal projects which you may find on my GitHub (more is on the way!).
+- 8-month internship @ Samsung doing frontend
+- Developer at UBC Launch Pad and UBC Product Management Club
+- Personal projects my GitHub (more is on the way!)
 
 ### Skills
 <details>
