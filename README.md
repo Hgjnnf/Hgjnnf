@@ -1,5 +1,7 @@
 ## Hi there! Welcome to my GitHub profile 👋
 
+<img align="right" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo5LCJub3NlIjozLCJtb3V0aCI6MCwiZXllcyI6OSwiZXllYnJvd3MiOjE1LCJnbGFzc2VzIjowLCJoYWlyIjozMywiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9" width="200">
+
 ### About Me
 
 - My name is Gordon 🐼
