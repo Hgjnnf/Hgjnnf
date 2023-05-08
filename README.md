@@ -2,9 +2,12 @@
 
 ### About Me
 
-My name is Gordon. I'm currently studying Electrical Engineering at the University of British Columbia. I am interested in solving business problems and build for people by leveraging the power of technology. Right now, my focus is in full-stack web development, and I am learning about relational databases. As an EE major, I also have an interest in firmware and digital circuit design.
-
-I have done an 8-month co-op @ Samsung Electronics working on enterprise software on the frontend side. I am also involved with UBC Launch Pad and UBC Product Management Club as a developer because I love building for and collaborating with the community I care about. I've also built a few personal projects which you may find on my GitHub (more is on the way!).
+- My name is Gordon. I'm currently studying Electrical Engineering at the University of British Columbia. 
+- I am interested in solving business problems and build for people by leveraging the power of technology. 
+- Right now, my focus is in full-stack web development, and I am learning about relational databases. 
+- As an EE major, I also have an interest in firmware and digital circuit design.
+- I have done an 8-month co-op @ Samsung Electronics working on enterprise software on the frontend side. 
+- I am also involved with UBC Launch Pad and UBC Product Management Club as a developer because I love building for and collaborating with the community I care about. I've also built a few personal projects which you may find on my GitHub (more is on the way!).
 
 ### Skills
 <details>
