@@ -18,13 +18,13 @@
 - Simulation and strategy games 🎮
 - Chinese and Korean pop culture 🇨🇳🇰🇷
 
-#### Experience
+#### 📈 Experience
 
 - 8-month internship @ Samsung doing frontend
 - Developer at UBC Launch Pad and UBC Product Management Club
 - Personal projects my GitHub (more is on the way!)
 
-### Skills
+### 🧑‍💻 Skills
 <details>
   <summary>Languages</summary>
   
@@ -67,7 +67,7 @@
 - Mocha, Jest, Pytest, JUnit
 </details>
 
-### You can reach me at:
+### 📭 You can reach me at:
 - [LinkedIn](http://linkedin.com/in/gordon-cheung-hwc/)
 - [Website](https://hgjnnf.github.io) 
 
