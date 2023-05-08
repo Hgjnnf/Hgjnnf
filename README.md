@@ -10,7 +10,7 @@
 - My focus is in full-stack web development 🖥️
 - Also interested in firmware and digital circuit design ⚙️
 
-#### Talk to me if you like:
+#### ❤️ Talk to me if you like:
 
 - Basketball (I love the Houston Rockets!) 🏀🚀
 - Economics, stocks, and geopolitics 🌎
