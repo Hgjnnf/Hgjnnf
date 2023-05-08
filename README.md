@@ -2,7 +2,7 @@
 
 <img align="right" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo5LCJub3NlIjozLCJtb3V0aCI6MCwiZXllcyI6OSwiZXllYnJvd3MiOjE1LCJnbGFzc2VzIjowLCJoYWlyIjozMywiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9" width="200">
 
-### About Me
+### ⭐ About Me
 
 - My name is Gordon 🐼
 - Studying Electrical Engineering at UBC ⚡️
@@ -12,7 +12,7 @@
 
 #### Talk to me if you like:
 
-- Basketball and the Houston Rockets 🏀🚀
+- Basketball (I love the Houston Rockets!) 🏀🚀
 - Economics, stocks, and geopolitics 🌎
 - New ideas, new trends, and entrepreneurship 📍
 - Simulation and strategy games 🎮
@@ -70,18 +70,3 @@
 ### 📭 You can reach me at:
 - [LinkedIn](http://linkedin.com/in/gordon-cheung-hwc/)
 - [Website](https://hgjnnf.github.io) 
-
-<!--
-**Hgjnnf/Hgjnnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
